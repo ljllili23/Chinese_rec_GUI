@@ -1,7 +1,7 @@
 # Chinese_rec_GUI
 Chinese Character Recognition based on Tensorflow with GUI.
 
-DateSet:https://pan.baidu.com/s/1rMZbGBdXMHOotmzlOUIX7g
+DataSet:https://pan.baidu.com/s/1rMZbGBdXMHOotmzlOUIX7g
 
 Many thanks to https://github.com/ljllili23/tensorflow-101
 
